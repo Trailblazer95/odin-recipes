@@ -1,0 +1,1 @@
+This is the README file for The Odin Project Foundations course for the Recipes project.  Through this project, I have been able to apply what I have learned to build a basic recipes website, linking to different pages, displaying images, displaying ordered and unordered lists, and adding paragraphs.
